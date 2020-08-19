@@ -1,1 +1,1 @@
-# HypothesisTestingR
+# Hypothesis Testing in R
